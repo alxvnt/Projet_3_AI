@@ -3,3 +3,7 @@ ipywidgets
 matplotlib
 pandas
 seaborn
+sickit-learn
+numpy
+category_encoders
+scipy
